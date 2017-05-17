@@ -1,0 +1,10 @@
+# BEGIN ALGO MANAGED BLOCK
+[algo:children]
+azure
+gce
+local
+ec2
+digitalocean
+# END ALGO MANAGED BLOCK
+[gce]
+104.199.178.17
